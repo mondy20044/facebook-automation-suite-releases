@@ -1,7 +1,7 @@
 {
-    "version":  "4.0.2",
-    "installer_url":  "https://github.com/mondy20044/facebook-automation-suite-releases/releases/download/v4.0.2/Facebook-Automation-Suite-Setup-4.0.2.exe",
-    "sha256":  "fc37be51f581a3175cb61289a2f665e6e618535d8981bbb7aa5337f5d1d10d8a",
+    "version":  "4.0.3",
+    "installer_url":  "https://github.com/mondy20044/facebook-automation-suite-releases/releases/download/v4.0.3/Facebook-Automation-Suite-Setup-4.0.3.exe",
+    "sha256":  "2a521eb23fe1b49334cd92c2435b6debf1c6cafe89b4d8a14d3312b86461cc44",
     "notes":  "Automatic release with the latest improvements and fixes.",
     "published_at":  "2026-08-09"
 }
