@@ -1,7 +1,7 @@
 {
-    "version":  "4.1.0",
-    "installer_url":  "https://github.com/mondy20044/facebook-automation-suite-releases/releases/download/v4.1.0/Facebook-Automation-Suite-Setup-4.1.0.exe",
-    "sha256":  "61ebf0303cce7a8d2a7f2b1484ce76b0c91d754392ea7f49dfc0d9ba191e74f9",
-    "notes":  "Automatic release with the latest improvements and fixes.",
+    "version":  "4.1.1",
+    "installer_url":  "https://github.com/mondy20044/facebook-automation-suite-releases/releases/download/v4.1.1/Facebook-Automation-Suite-Setup-4.1.1.exe",
+    "sha256":  "ec83b30e2e52640525fdb3367965d8ca4f1c57c910bdae0a30ccc4f46ab3e148",
+    "notes":  "Safe update installation: closes only Facebook Automation Suite and its bundled Chromium processes before replacing files.",
     "published_at":  "2026-08-09"
 }
